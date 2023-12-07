@@ -1,4 +1,5 @@
 # 디자인 패턴
 
-- [싱글톤 패턴](./singleton-pattern.md)
-- [프록시 패턴](./proxy-pattern.md)
+- [Singleton 패턴](./singleton-pattern.md)
+- [Proxy 패턴](./proxy-pattern.md)
+- [Provider 패턴](./provider-pattern.md)
