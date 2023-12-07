@@ -1,11 +1,11 @@
-## 싱글톤 패턴
+## Singleton 패턴
 
 > JavaScript 기준으로 설명합니다.
 
 ## 용어
 
 - **인스턴스**(Instance): 어떤 생성자를 기반으로 생성된 새로운 객체 ([mdn](https://developer.mozilla.org/en-US/docs/Glossary/Instance))
-    - 생성자가 쿠키를 찍어낼 수 있는 쿠키 틀이라면, 인스턴스는 쿠키 틀에서 찍어낸 쿠키이다.
+  - 생성자가 쿠키를 찍어낼 수 있는 쿠키 틀이라면, 인스턴스는 쿠키 틀에서 찍어낸 쿠키이다.
 - **인스턴스화**(Instantiation): 생성자로부터 인스턴스를 생성하는 것
 - **객체 리터럴**(Object literal): 중괄호(`{}`)를 사용해 객체를 초기화하는 방식 ([mdn](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Object_initializer))
 
@@ -27,26 +27,26 @@ let instance;
 let logCounter = 0;
 
 class Logger {
-	constructor() {
-		if (instance) {
-			throw new Error("중복으로 인스턴스를 생성할 수 없습니다.");
-		}
-		instance = this;
-	}
+  constructor() {
+    if (instance) {
+      throw new Error("중복으로 인스턴스를 생성할 수 없습니다.");
+    }
+    instance = this;
+  }
 
-	getInstance() {
-		return this;
-	}
+  getInstance() {
+    return this;
+  }
 
-	success(message) {
-		++logCounter;
-		console.log(`SUCCESS(${logCounter}): ${message}`);
-	}
+  success(message) {
+    ++logCounter;
+    console.log(`SUCCESS(${logCounter}): ${message}`);
+  }
 
-	error(message) {
-		++logCounter;
-		console.log(`ERROR(${logCounter}): ${message}`);
-	}
+  error(message) {
+    ++logCounter;
+    console.log(`ERROR(${logCounter}): ${message}`);
+  }
 }
 
 const logger = Object.freeze(new Logger()); // logger 객체의 수정을 방지한다.
@@ -60,14 +60,14 @@ const logger = Object.freeze(new Logger()); // logger 객체의 수정을 방지
 let logCounter = 0;
 
 const logger = {
-	success(message) {
-		++logCounter;
-		console.log(`SUCCESS(${logCounter}): ${message}`);
-	},
-	error(message) {
-		++logCounter;
-		console.log(`ERROR(${logCounter}): ${message}`);
-	}
+  success(message) {
+    ++logCounter;
+    console.log(`SUCCESS(${logCounter}): ${message}`);
+  },
+  error(message) {
+    ++logCounter;
+    console.log(`ERROR(${logCounter}): ${message}`);
+  },
 };
 
 Object.freeze(logger);
@@ -80,11 +80,11 @@ Object.freeze(logger);
 ## 단점
 
 - **단위 테스트가 어렵다.**
-    - 테스트마다 인스턴스를 생성할 수 없기 때문에 하나의 인스턴스로 모든 테스트가 이루어져야 한다. 즉, 모든 테스트들은 이전 테스트에서 생성 또는 수정한 인스턴스를 수정해야 하고, 이렇게 환경에 강하게 결합된 테스트는 실행 순서 등에 따라 예기치 못한 동작을 할 가능성이 높다.
+  - 테스트마다 인스턴스를 생성할 수 없기 때문에 하나의 인스턴스로 모든 테스트가 이루어져야 한다. 즉, 모든 테스트들은 이전 테스트에서 생성 또는 수정한 인스턴스를 수정해야 하고, 이렇게 환경에 강하게 결합된 테스트는 실행 순서 등에 따라 예기치 못한 동작을 할 가능성이 높다.
 - **단일 책임 원칙에 위배된다.**
-    - 단일 인스턴스를 보장하며, 인스턴스에 대해 전역 접근을 제공하는 두 기능을 동시에 하기 때문에, 단일 책임 원칙에 위배된다.
+  - 단일 인스턴스를 보장하며, 인스턴스에 대해 전역 접근을 제공하는 두 기능을 동시에 하기 때문에, 단일 책임 원칙에 위배된다.
 - **전역적으로 접근 가능하다.**
-    - 이는 싱글톤 패턴의 특징이자 단점인데, `var`를 더 이상 사용하지 않는 이유에서 알 수 있듯 아무 곳에서나 변경 가능한 전역 상태는 복잡한 애플리케이션에서 데이터 흐름을 더 복잡하게 만든다.
+  - 이는 싱글톤 패턴의 특징이자 단점인데, `var`를 더 이상 사용하지 않는 이유에서 알 수 있듯 아무 곳에서나 변경 가능한 전역 상태는 복잡한 애플리케이션에서 데이터 흐름을 더 복잡하게 만든다.
 
 ## 참고 자료
 

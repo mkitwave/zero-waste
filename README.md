@@ -4,8 +4,8 @@
 
 ## Recent
 
-- 231205 [프록시 패턴 | 디자인 패턴](./design-pattern/proxy-pattern.md)
-- 231204 [싱글톤 패턴 | 디자인 패턴](./design-pattern/singleton-pattern.md)
+- 231205 [Proxy 패턴 | 디자인 패턴](./design-pattern/proxy-pattern.md)
+- 231204 [Singleton 패턴 | 디자인 패턴](./design-pattern/singleton-pattern.md)
 
 ## Contents
 
