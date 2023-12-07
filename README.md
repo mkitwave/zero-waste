@@ -4,6 +4,7 @@
 
 ## Recent
 
+- 231207 [Prototype 패턴 | 디자인 패턴](./design-pattern/prototype-pattern.md)
 - 231207 [Provider 패턴 | 디자인 패턴](./design-pattern/provider-pattern.md)
 - 231205 [Proxy 패턴 | 디자인 패턴](./design-pattern/proxy-pattern.md)
 - 231204 [Singleton 패턴 | 디자인 패턴](./design-pattern/singleton-pattern.md)
