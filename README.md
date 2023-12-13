@@ -4,7 +4,7 @@
 
 ## Recent
 
-- 231213 [Container/Presentational 패턴 | 디자인 패턴](./container-presentational-pattern.md)
+- 231213 [Container/Presentational 패턴 | 디자인 패턴](./design-pattern/container-presentational-pattern.md)
 - 231207 [Prototype 패턴 | 디자인 패턴](./design-pattern/prototype-pattern.md)
 - 231207 [Provider 패턴 | 디자인 패턴](./design-pattern/provider-pattern.md)
 - 231205 [Proxy 패턴 | 디자인 패턴](./design-pattern/proxy-pattern.md)
