@@ -5,3 +5,4 @@
 - [Provider 패턴](./provider-pattern.md)
 - [Prototype 패턴](./prototype-pattern.md)
 - [Container/Presentational 패턴](./container-presentational-pattern.md)
+- [Observer 패턴](./observer-pattern.md)
