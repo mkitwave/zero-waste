@@ -2,4 +2,3 @@
 - [Refactoring Guru](https://refactoring.guru/ko/design-patterns)
 - [yceffort](https://yceffort.kr/)
 - [overreacted](https://overreacted.io/)
-- 
