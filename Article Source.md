@@ -5,6 +5,6 @@
 
 ### Company
 - [카카오페이](https://tech.kakaopay.com/tag/fe/)
-- [화해](https://blog.hwahae.co.kr/category/all/tech)
+- [화해](https://blog.hwahae.co.kr/category/all/tech?tag=55)
 - [우아한형제들](https://techblog.woowahan.com/?paged=1&pcat=web-frontend)
 - [토스](https://toss.tech/)
