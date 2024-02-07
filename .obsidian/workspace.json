@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "dfd4fc7731cba15c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Storage.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "8ef68827dda50b35",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "State Management/1. Flux/1-0. Flux.md",
+                "file": "Storage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "State Management/1. Flux/1-0. Flux.md",
+                "file": "Storage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "State Management/1. Flux/1-0. Flux.md"
+                "file": "Storage.md"
               }
             }
           },
@@ -169,13 +182,14 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "246c5dc87cea71da",
+  "active": "dfd4fc7731cba15c",
   "lastOpenFiles": [
+    "State Management/1. Flux/1-0. Flux.md",
+    "Storage.md",
     "Software Architecture/MVC.md",
     "State Management/0. State Management/0-0. State Management.md",
     "Article Source.md",
     "Software Architecture",
-    "State Management/1. Flux/1-0. Flux.md",
     "Design Pattern/Prototype Pattern.md",
     "Design Pattern/Observer Pattern.md",
     "Design Pattern/Container·Presentational Pattern.md",
