@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "State Management/0. State Management/0-0. State Management.md",
+                "file": "Software Architecture/MVC.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "State Management/0. State Management/0-0. State Management.md",
+                "file": "Software Architecture/MVC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "State Management/0. State Management/0-0. State Management.md",
+                "file": "Software Architecture/MVC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "State Management/0. State Management/0-0. State Management.md"
+                "file": "Software Architecture/MVC.md"
               }
             }
           },
@@ -171,9 +171,9 @@
   },
   "active": "246c5dc87cea71da",
   "lastOpenFiles": [
+    "State Management/0. State Management/0-0. State Management.md",
     "Article Source.md",
     "Software Architecture/MVC.md",
-    "State Management/0. State Management/0-0. State Management.md",
     "Software Architecture",
     "State Management/1. Flux/1-0. Flux.md",
     "Design Pattern/Prototype Pattern.md",
