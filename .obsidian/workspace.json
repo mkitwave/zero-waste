@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8ef68827dda50b35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software Architecture/MVM.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "State Management/0. State Management/0-0. State Management.md",
+                "file": "Software Architecture/MVM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "State Management/0. State Management/0-0. State Management.md",
+                "file": "Software Architecture/MVM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "State Management/0. State Management/0-0. State Management.md"
+                "file": "Software Architecture/MVM.md"
               }
             }
           },
@@ -157,13 +170,14 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "246c5dc87cea71da",
+  "active": "5ae21b4542d4872f",
   "lastOpenFiles": [
-    "State Management/1. Flux/1-0. Flux.md",
     "State Management/0. State Management/0-0. State Management.md",
+    "Software Architecture/MVM.md",
+    "Software Architecture",
+    "State Management/1. Flux/1-0. Flux.md",
     "Design Pattern/Prototype Pattern.md",
     "Article Source.md",
-    "무제 폴더",
     "Design Pattern/Observer Pattern.md",
     "Design Pattern/Container·Presentational Pattern.md",
     "Design Pattern/Proxy Pattern.md",
