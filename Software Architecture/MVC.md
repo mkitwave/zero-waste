@@ -1,1 +1,2 @@
-### Model, 
+### Model, View, Controller
+#### Model
