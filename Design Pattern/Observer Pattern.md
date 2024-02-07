@@ -1,7 +1,3 @@
-## Observer 패턴
-
-> JavaScript 기준으로 설명합니다.
-
 ## 용어
 
 - 옵저버(Observer): 특정 객체를 구독하는 주체

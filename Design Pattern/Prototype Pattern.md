@@ -1,5 +1,3 @@
-## Prototype 패턴
-
 > JavaScript 기준으로 설명합니다.
 
 ## 의미

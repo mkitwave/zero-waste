@@ -1,5 +1,3 @@
-# JavaScript가 무엇인가요?
-
 > You Don't Know JS Yet을 읽고 정리한 글입니다. ([원문](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/ch1.md))
 
 ## 이름

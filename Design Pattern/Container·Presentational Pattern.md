@@ -1,5 +1,3 @@
-## Container/Presentational 패턴
-
 > React 기준으로 설명합니다.
 
 ## 용어

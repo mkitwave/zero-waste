@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "080a5e22aa76dc94",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f6e824d4f0818ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66a4db1ac6d002a9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "73d6d6415f3c4082",
+    "type": "split",
+    "children": [
+      {
+        "id": "fdd562d542c92b8c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ae21b4542d4872f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b0aa319ff33d2e70",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "38ae19b9b4a5c98d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "019d72bd41be055f",
+    "type": "split",
+    "children": [
+      {
+        "id": "edfa3c1f97381ce3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5db3cd9833fa18fc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e9fb0985bb7522a2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "acb10d851386881e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bdd89025d5c62b13",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "02897f723e5814e7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "66a4db1ac6d002a9",
+  "lastOpenFiles": [
+    "Design Pattern/Proxy Pattern.md",
+    "State Management/3. Proxy/3-0. Proxy.md",
+    "Book/You Don't Know JS Yet/Chap1. JavaScript.md",
+    "Design Pattern/Singleton Pattern.md",
+    "Design Pattern/Provider Pattern.md",
+    "Design Pattern/Prototype Pattern.md",
+    "Design Pattern/Container·Presentational Pattern.md",
+    "Design Pattern/Observer Pattern.md",
+    "State Management/1. Flux/1-0. Flux.md",
+    "Design Pattern",
+    "Book/You Don't Know JS Yet",
+    "Book",
+    "State Management/0. State Management/0-0. State Management.md",
+    "무제 파일.canvas",
+    "State Management/0. State Management",
+    "State Management/1. Flux/1-2. Zustand.md",
+    "State Management/1. Flux/1-1. Redux.md",
+    "State Management/4. FSM/4-1. XState.md",
+    "State Management/4. FSM/4-0. FSM.md",
+    "State Management/3. Proxy/3-2. Valtio.md",
+    "State Management/3. Proxy/3-1. MobX.md",
+    "State Management/2. Atomic/2-2. Recoil.md",
+    "State Management/2. Atomic/2-1. Jotai.md",
+    "State Management/2. Atomic/2-0. Atomic.md",
+    "State Management/3. Proxy",
+    "State Management/4. FSM",
+    "State Management/1. Flux",
+    "State Management/2. Atomic"
+  ]
+}
