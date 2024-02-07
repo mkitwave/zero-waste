@@ -1,3 +1,5 @@
 - [Korea FE Article](https://spicy-lace-142.notion.site/844cd73f347743609129bafc407068fe)
 - [Refactoring Guru](https://refactoring.guru/ko/design-patterns)
 - [yceffort](https://yceffort.kr/)
+- [overreacted](https://overreacted.io/)
+- 
