@@ -2,3 +2,7 @@
 - [Refactoring Guru](https://refactoring.guru/ko/design-patterns)
 - [yceffort](https://yceffort.kr/)
 - [overreacted](https://overreacted.io/)
+
+### Company
+- [카카오페이](https://tech.kakaopay.com/tag/fe/)
+- [화해](https://blog.hwahae.co.kr/category/all/tech)
