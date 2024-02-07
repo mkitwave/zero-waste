@@ -1,2 +1,3 @@
 - [Korea FE Article](https://spicy-lace-142.notion.site/844cd73f347743609129bafc407068fe): 해외 트렌드 프론트엔드 아티클 번역
-- [Refactoring Guru](https://refactoring.guru/ko/design-patterns): 디자인 패턴/
+- [Refactoring Guru](https://refactoring.guru/ko/design-patterns): 디자인 패턴
+- 
