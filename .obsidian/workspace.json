@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Storage.md",
+                "file": "Article Source.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Storage.md",
+                "file": "Article Source.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Storage.md"
+                "file": "Article Source.md"
               }
             }
           },
@@ -182,10 +182,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "dfd4fc7731cba15c",
+  "active": "8ef68827dda50b35",
   "lastOpenFiles": [
-    "State Management/1. Flux/1-0. Flux.md",
     "Storage.md",
+    "State Management/1. Flux/1-0. Flux.md",
     "Software Architecture/MVC.md",
     "State Management/0. State Management/0-0. State Management.md",
     "Article Source.md",
