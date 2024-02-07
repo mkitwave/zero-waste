@@ -11,8 +11,12 @@
             "id": "66a4db1ac6d002a9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Design Pattern/Prototype Pattern.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Design Pattern/Prototype Pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Design Pattern/Prototype Pattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Design Pattern/Prototype Pattern.md"
+              }
             }
           },
           {
@@ -151,14 +159,14 @@
   },
   "active": "66a4db1ac6d002a9",
   "lastOpenFiles": [
+    "Design Pattern/Observer Pattern.md",
+    "Design Pattern/Container·Presentational Pattern.md",
     "Design Pattern/Proxy Pattern.md",
     "State Management/3. Proxy/3-0. Proxy.md",
     "Book/You Don't Know JS Yet/Chap1. JavaScript.md",
     "Design Pattern/Singleton Pattern.md",
     "Design Pattern/Provider Pattern.md",
     "Design Pattern/Prototype Pattern.md",
-    "Design Pattern/Container·Presentational Pattern.md",
-    "Design Pattern/Observer Pattern.md",
     "State Management/1. Flux/1-0. Flux.md",
     "Design Pattern",
     "Book/You Don't Know JS Yet",
