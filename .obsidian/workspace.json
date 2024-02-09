@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Article Source.md",
+                "file": "State Management/1. Flux/1-0. Flux.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Article Source.md",
+                "file": "State Management/1. Flux/1-0. Flux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Article Source.md",
+                "file": "State Management/1. Flux/1-0. Flux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Article Source.md"
+                "file": "State Management/1. Flux/1-0. Flux.md"
               }
             }
           },
@@ -184,11 +184,13 @@
   },
   "active": "8ef68827dda50b35",
   "lastOpenFiles": [
-    "Storage.md",
+    "State Management/1. Flux/1-1. Redux.md",
+    "State Management/1. Flux/1-2. Zustand.md",
     "State Management/1. Flux/1-0. Flux.md",
+    "Article Source.md",
+    "Storage.md",
     "Software Architecture/MVC.md",
     "State Management/0. State Management/0-0. State Management.md",
-    "Article Source.md",
     "Software Architecture",
     "Design Pattern/Prototype Pattern.md",
     "Design Pattern/Observer Pattern.md",
@@ -203,8 +205,6 @@
     "Book",
     "무제 파일.canvas",
     "State Management/0. State Management",
-    "State Management/1. Flux/1-2. Zustand.md",
-    "State Management/1. Flux/1-1. Redux.md",
     "State Management/4. FSM/4-1. XState.md",
     "State Management/4. FSM/4-0. FSM.md",
     "State Management/3. Proxy/3-2. Valtio.md",
