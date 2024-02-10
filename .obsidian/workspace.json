@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Design Pattern/Prototype Pattern.md",
+                "file": "Article Source.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Design Pattern/Prototype Pattern.md",
+                "file": "Article Source.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Design Pattern/Prototype Pattern.md",
+                "file": "Article Source.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Design Pattern/Prototype Pattern.md"
+                "file": "Article Source.md"
               }
             }
           },
@@ -183,6 +183,11 @@
   },
   "active": "246c5dc87cea71da",
   "lastOpenFiles": [
+    "Book/You Don't Know JS Yet/Chap1. JavaScript.md",
+    "Design Pattern/Singleton Pattern.md",
+    "Design Pattern/Proxy Pattern.md",
+    "Design Pattern/Prototype Pattern.md",
+    "Design Pattern/Provider Pattern.md",
     "Design Pattern/Observer Pattern.md",
     "Design Pattern/Container·Presentational Pattern.md",
     "State Management/0. State Management/0-0. State Management.md",
@@ -199,11 +204,6 @@
     "Storage.md",
     "Software Architecture/MVC.md",
     "Software Architecture",
-    "Design Pattern/Prototype Pattern.md",
-    "Design Pattern/Proxy Pattern.md",
-    "Book/You Don't Know JS Yet/Chap1. JavaScript.md",
-    "Design Pattern/Singleton Pattern.md",
-    "Design Pattern/Provider Pattern.md",
     "Design Pattern",
     "Book/You Don't Know JS Yet",
     "Book",
