@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "State Management/3. Proxy/3-1. MobX.md",
+                "file": "Storage.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "State Management/3. Proxy/3-1. MobX.md",
+                "file": "Storage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "State Management/3. Proxy/3-1. MobX.md",
+                "file": "Storage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "State Management/3. Proxy/3-1. MobX.md"
+                "file": "Storage.md"
               }
             }
           },
@@ -183,10 +183,11 @@
   },
   "active": "246c5dc87cea71da",
   "lastOpenFiles": [
-    "State Management/1. Flux/1-0. Flux.md",
-    "Article Source.md",
-    "Storage.md",
     "README.md",
+    "Article Source.md",
+    "State Management/3. Proxy/3-1. MobX.md",
+    "State Management/1. Flux/1-0. Flux.md",
+    "Storage.md",
     "Book/You Don't Know JS Yet/Chap1. JavaScript.md",
     "Design Pattern/Singleton Pattern.md",
     "Design Pattern/Proxy Pattern.md",
@@ -210,7 +211,6 @@
     "무제 파일.canvas",
     "State Management/0. State Management",
     "State Management/3. Proxy/3-2. Valtio.md",
-    "State Management/3. Proxy/3-1. MobX.md",
     "State Management/2. Atomic/2-2. Recoil.md",
     "State Management/2. Atomic/2-1. Jotai.md",
     "State Management/2. Atomic/2-0. Atomic.md",
