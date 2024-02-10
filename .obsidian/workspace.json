@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "State Management/1. Flux/1-0. Flux.md",
+                "file": "State Management/0. State Management/0-0. State Management.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "State Management/1. Flux/1-0. Flux.md",
+                "file": "State Management/0. State Management/0-0. State Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "State Management/1. Flux/1-0. Flux.md",
+                "file": "State Management/0. State Management/0-0. State Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "State Management/1. Flux/1-0. Flux.md"
+                "file": "State Management/0. State Management/0-0. State Management.md"
               }
             }
           },
@@ -183,9 +183,9 @@
   },
   "active": "246c5dc87cea71da",
   "lastOpenFiles": [
+    "State Management/1. Flux/1-0. Flux.md",
     "State Management/1. Flux/asset/flux.png",
     "State Management/1. Flux/asset",
-    "State Management/1. Flux/1-0. Flux.md",
     "README.md",
     "State Management/0. State Management/0-0. State Management.md",
     "State Management/1. Flux/1-2. Zustand.md",
