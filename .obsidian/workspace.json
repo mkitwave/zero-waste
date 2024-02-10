@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "State Management/0. State Management/0-0. State Management.md",
+                "file": "Design Pattern/Prototype Pattern.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "State Management/0. State Management/0-0. State Management.md",
+                "file": "Design Pattern/Prototype Pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "State Management/0. State Management/0-0. State Management.md",
+                "file": "Design Pattern/Prototype Pattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "State Management/0. State Management/0-0. State Management.md"
+                "file": "Design Pattern/Prototype Pattern.md"
               }
             }
           },
@@ -183,10 +183,12 @@
   },
   "active": "246c5dc87cea71da",
   "lastOpenFiles": [
+    "Design Pattern/Observer Pattern.md",
+    "Design Pattern/Container·Presentational Pattern.md",
+    "State Management/0. State Management/0-0. State Management.md",
     "State Management/3. Proxy/3-0. Proxy.md",
     "State Management/4. FSM/4-1. XState.md",
     "State Management/4. FSM/4-0. FSM.md",
-    "State Management/0. State Management/0-0. State Management.md",
     "State Management/1. Flux/1-0. Flux.md",
     "State Management/1. Flux/asset/flux.png",
     "State Management/1. Flux/asset",
@@ -198,8 +200,6 @@
     "Software Architecture/MVC.md",
     "Software Architecture",
     "Design Pattern/Prototype Pattern.md",
-    "Design Pattern/Observer Pattern.md",
-    "Design Pattern/Container·Presentational Pattern.md",
     "Design Pattern/Proxy Pattern.md",
     "Book/You Don't Know JS Yet/Chap1. JavaScript.md",
     "Design Pattern/Singleton Pattern.md",
