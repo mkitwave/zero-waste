@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Article Source.md",
+                "file": "State Management/3. Proxy/3-1. MobX.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Article Source.md",
+                "file": "State Management/3. Proxy/3-1. MobX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Article Source.md",
+                "file": "State Management/3. Proxy/3-1. MobX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Article Source.md"
+                "file": "State Management/3. Proxy/3-1. MobX.md"
               }
             }
           },
@@ -183,6 +183,10 @@
   },
   "active": "246c5dc87cea71da",
   "lastOpenFiles": [
+    "State Management/1. Flux/1-0. Flux.md",
+    "Article Source.md",
+    "Storage.md",
+    "README.md",
     "Book/You Don't Know JS Yet/Chap1. JavaScript.md",
     "Design Pattern/Singleton Pattern.md",
     "Design Pattern/Proxy Pattern.md",
@@ -194,14 +198,10 @@
     "State Management/3. Proxy/3-0. Proxy.md",
     "State Management/4. FSM/4-1. XState.md",
     "State Management/4. FSM/4-0. FSM.md",
-    "State Management/1. Flux/1-0. Flux.md",
     "State Management/1. Flux/asset/flux.png",
     "State Management/1. Flux/asset",
-    "README.md",
     "State Management/1. Flux/1-2. Zustand.md",
     "State Management/1. Flux/1-1. Redux.md",
-    "Article Source.md",
-    "Storage.md",
     "Software Architecture/MVC.md",
     "Software Architecture",
     "Design Pattern",
