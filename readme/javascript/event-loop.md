@@ -78,8 +78,8 @@ b();
 
 `setTimeout(callback, 0)`은 0초 뒤 콜백 함수의 실행을 보장하지 않는다. 이유는 다음과 같다.
 
-1. call stack이 비어 있어야지만 call stack에 등록될 수 있다: 위에서 설명했듯이, 우선순위가 더 높은 작업들이 먼저 실행된다.
-2. &#x20;(브라우저의 경우) 5번째 중첩 타이머 실행 시, 타이머의 대기 시간이 4ms 이상으로 강제된다: [HTML 표준으로 등록되어 있다.](https://html.spec.whatwg.org/multipage/timers-and-user-prompts.html#timers)
+1. **call stack이 비어 있어야지만 call stack에 등록될 수 있다**: 위에서 설명했듯이, 우선순위가 더 높은 작업들이 먼저 실행된다.
+2. &#x20;(브라우저의 경우) **5번째 중첩 타이머 실행 시, 타이머의 대기 시간이 4ms 이상으로 강제된다**: [HTML 표준으로 등록되어 있다.](https://html.spec.whatwg.org/multipage/timers-and-user-prompts.html#timers)
 
 #### 활용하기
 

@@ -1,6 +1,8 @@
 # Table of contents
 
 * [🧻 Zero Waste](README.md)
+  * [Web](readme/web/README.md)
+    * [Rendering](readme/web/rendering.md)
   * [JavaScript](readme/javascript/README.md)
     * [Event Loop](readme/javascript/event-loop.md)
   * [Design Pattern](readme/design-pattern/README.md)
