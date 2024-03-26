@@ -5,6 +5,7 @@
 * [yceffort](https://yceffort.kr/)
 * [overreacted](https://overreacted.io/)
 * [Kent C. Dodds](https://kentcdodds.com/blog)
+* [Josh W Comeau](https://www.joshwcomeau.com/)
 
 #### 회사 기술 블로그
 

@@ -5,6 +5,8 @@
     * [Rendering](readme/web/rendering.md)
   * [JavaScript](readme/javascript/README.md)
     * [Event Loop](readme/javascript/event-loop.md)
+  * [React](readme/react/README.md)
+    * [Memoization](readme/react/memoization.md)
   * [Design Pattern](readme/design-pattern/README.md)
     * [Container·Presentational Pattern](readme/design-pattern/container-presentational-pattern.md)
     * [Observer Pattern](readme/design-pattern/observer-pattern.md)
